@@ -100,3 +100,9 @@ This project is licensed under the Apache License 2.0 - see
 [deploys]: https://app.netlify.com/sites/docsydocs/deploys
 [netlify]: https://netlify.com
 [releases]: https://github.com/google/docsy/releases
+
+### Fork Notice
+This repository is a fork of the original "Docsy" theme.  
+For possible changes, please check the commit history.  
+All modifications, if any, are provided under the same license.
+
